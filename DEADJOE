@@ -1,0 +1,27 @@
+
+*** These modified files were found in JOE when it aborted on Fri Apr 28 13:15:18 2023
+*** JOE was aborted by UNIX signal 1
+
+*** File '/home/max/Documents/git/.git/COMMIT_EDITMSG'
+q
+ddddaaaqse enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up-to-date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   onPC
+#
+
+*** File '(Unnamed)'
+q!
+
+*** File '(Unnamed)'
+/home/max/Documents/git/.git/COMMIT_EDITMSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
